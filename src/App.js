@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import './mystyle.css';
 
 const AccountManager = () => {
   const [text, setText] = useState("");
@@ -67,8 +68,8 @@ const AccountManager = () => {
   return (
     <div>
       <h2>Personal Account Manager</h2>
-      <a className="customLink" href="github.com/amaanmajeed">by Amaan Majeed F2020266286</a>
-      
+      <a className="customLink" href="https://github.com/amaanmajeed">by Amaan Majeed F2020266286</a> <br />
+      <a className="customLink" href="https://amaanmajeed.github.io/PersonalAccountManager-React/">Hosted on Github Pages</a>
 
       <div className="container">
         <h4>Your Balance</h4>
