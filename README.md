@@ -2,7 +2,10 @@
 
 A simple React app to track income, expenses and calculate balances for a personal account.
 
+
 [Live Demo](https://amaanmajeed.github.io/PersonalAccountManager-React/)
+
+![Assignment Image](https://github.com/amaanmajeed/PersonalAccountManager-React/blob/main/src/Assignment_2.png?raw=true)
 
 ## Features
 
