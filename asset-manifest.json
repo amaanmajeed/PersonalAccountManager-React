@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/PersonalAccountManager-React/static/js/main.e8589d93.js",
+    "main.css": "/PersonalAccountManager-React/static/css/main.c92a1f67.css",
+    "main.js": "/PersonalAccountManager-React/static/js/main.1c74512f.js",
     "static/js/787.c599b972.chunk.js": "/PersonalAccountManager-React/static/js/787.c599b972.chunk.js",
     "index.html": "/PersonalAccountManager-React/index.html",
-    "main.e8589d93.js.map": "/PersonalAccountManager-React/static/js/main.e8589d93.js.map",
+    "main.c92a1f67.css.map": "/PersonalAccountManager-React/static/css/main.c92a1f67.css.map",
+    "main.1c74512f.js.map": "/PersonalAccountManager-React/static/js/main.1c74512f.js.map",
     "787.c599b972.chunk.js.map": "/PersonalAccountManager-React/static/js/787.c599b972.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8589d93.js"
+    "static/css/main.c92a1f67.css",
+    "static/js/main.1c74512f.js"
   ]
 }
